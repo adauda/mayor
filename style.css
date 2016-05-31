@@ -40,6 +40,7 @@ body {
       font-family: Montserrat, sans-serif;
       text-shadow: 2px 2px #FF0000;
       text-align: center; 
+      text-decoration:none;
   }
   .jumbotron2 h1{
     font-size: 650%;
