@@ -40,7 +40,6 @@ body {
       font-family: Montserrat, sans-serif;
       text-shadow: 2px 2px #FF0000;
       text-align: center; 
-      text-decoration:none;
   }
   .jumbotron2 h1{
     font-size: 650%;
@@ -51,9 +50,11 @@ body {
     font-height:40px;
     font-size: 36px;
   }
-  .container-fluid {
+  
+.container-fluid {
       padding: 60px 50px;
   }
+
   .bg-grey {
       background-color: #f6f6f6;
   }
@@ -172,13 +173,18 @@ body {
     padding-top:150px;
     text-decoration: none;
     padding: 10px;
+	display:block;
+
   }
   form li{
     padding: 10px;
     font-height:40px;
     font-size: 36px;
     text-decoration: none;
+display:block;
   }
+
+
   footer{
     background-image: url(images/introimage.jpg);
       background-repeat: no-repeat;
@@ -392,38 +398,4 @@ body {
       -webkit-animation-duration: 1s;
       visibility: visible;
   }
-  @keyframes slide {
-    0% {
-      opacity: 0;
-      -webkit-transform: translateY(70%);
-    } 
-    100% {
-      opacity: 1;
-      -webkit-transform: translateY(0%);
-    }
-  }
-  @-webkit-keyframes slide {
-    0% {
-      opacity: 0;
-      -webkit-transform: translateY(70%);
-    } 
-    100% {
-      opacity: 1;
-      -webkit-transform: translateY(0%);
-    }
-  }
-  @media screen and (max-width: 768px) {
-    .col-sm-4 {
-      text-align: center;
-      margin: 25px 0;
-    }
-    .btn-lg {
-        width: 100%;
-        margin-bottom: 35px;
-    }
-  }
-  @media screen and (max-width: 480px) {
-    .logo {
-        font-size: 150px;
-    }
-  }
+  
