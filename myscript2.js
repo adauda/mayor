@@ -24,6 +24,10 @@ function check2(){
 }
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/gh-pages
 
 
 
