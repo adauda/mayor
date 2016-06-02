@@ -173,15 +173,23 @@ body {
     padding-top:150px;
     text-decoration: none;
     padding: 10px;
+<<<<<<< HEAD
 	display:block;
 
+=======
+    display: block;
+>>>>>>> origin/gh-pages
   }
   form li{
     padding: 10px;
     font-height:40px;
     font-size: 36px;
     text-decoration: none;
+<<<<<<< HEAD
 display:block;
+=======
+    display: block;
+>>>>>>> origin/gh-pages
   }
 
 
