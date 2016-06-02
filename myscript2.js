@@ -12,6 +12,19 @@ function check() {
 
 }
 
+function check1() {
+
+    window.open('thanks.html');
+    window.close('mayorq.html');
+}
+
+function check2(){
+	window.open('mayorq.html');
+	window.close('thanks.html');
+}
+
+
+
 
 
 
