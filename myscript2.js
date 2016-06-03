@@ -22,16 +22,3 @@ function check2(){
 	window.open('mayorq.html');
 	window.close('thanks.html');
 }
-
-
-<<<<<<< HEAD
-=======
-
->>>>>>> origin/gh-pages
-
-
-
-
-
-
-
