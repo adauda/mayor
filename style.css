@@ -408,9 +408,4 @@ body {
       -webkit-animation-duration: 1s;
       visibility: visible;
   }
-
-<<<<<<< HEAD
-  
-=======
-  
->>>>>>> origin/gh-pages
+.Picture { border: 0px solid rgb(255, 249, 252); }
