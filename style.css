@@ -28,7 +28,7 @@ body {
       color: #003399;
       padding: 100px 25px;
       font-family: Montserrat, sans-serif;
-      text-shadow: 2px 2px #FF0000; 
+      /* text-shadow: 2px 2px #FF0000; */
   }
   .jumbotron2 {
     width: 100%;
